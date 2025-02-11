@@ -1,0 +1,18 @@
+C:\Users\dejv\Desktop\free vbucks generator\bin\Debug\net8.0-windows\free vbucks generator.exe
+C:\Users\dejv\Desktop\free vbucks generator\bin\Debug\net8.0-windows\free vbucks generator.deps.json
+C:\Users\dejv\Desktop\free vbucks generator\bin\Debug\net8.0-windows\free vbucks generator.runtimeconfig.json
+C:\Users\dejv\Desktop\free vbucks generator\bin\Debug\net8.0-windows\free vbucks generator.dll
+C:\Users\dejv\Desktop\free vbucks generator\bin\Debug\net8.0-windows\free vbucks generator.pdb
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free_vbucks_generator.Form1.resources
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.csproj.GenerateResource.cache
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.AssemblyInfoInputs.cache
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.AssemblyInfo.cs
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.csproj.CoreCompileInputs.cache
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.dll
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\refint\free vbucks generator.dll
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.pdb
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free vbucks generator.genruntimeconfig.cache
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\ref\free vbucks generator.dll
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free_vbucks_generator.ScamForm.resources
+C:\Users\dejv\Desktop\free vbucks generator\obj\Debug\net8.0-windows\free_vbucks_generator.Properties.Resources.resources
