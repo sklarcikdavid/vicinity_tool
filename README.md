@@ -1,5 +1,6 @@
 # vicinity_tool
 // .bat multitool aplikace
+![screenshot](image.png)<br><br>
 
 po pouzivani par aplikaci ( ͡° ͜ʖ ͡°) jsem se rozhodl ze zkusim taky udelat takovou navigacni aplikaci v cmd. mluvili nam o tom ve skole co vsechno se da
 s command promptem udelat, tak jsem si rikal ze to nebude takove tezke. jako prvni jsem si vybral nejaky ascii art a napsal ho do konzole. konzole mela
@@ -15,5 +16,5 @@ exit
 ```
 / pokud ne tak se vypise error spatny input a program se vrati na zacatek. vysledny a konecny kod pote hodim do repozitare. ted uz akorat dodelam hezke barvy napisu, takze funkcnost hotova, ted uz jen kosmeticke vady.
 
-obtiznost: 3/10
+obtiznost: 3/10<br>
 shrnuti: bavilo me to, zase neco noveho nez jenom c#, ale nejspis bych to normalne delat nechtel. nebylo to nic tezkeho jen mi to neprislo moc zazivne.
