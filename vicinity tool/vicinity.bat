@@ -24,8 +24,8 @@ if /I "%input%"=="1" (
     goto :menu
 )
 if /I "%input%"=="2" (
-    if exist "openprogramy\script_terraria.lnk" (
-        start "" "openprogramy\script_terraria.lnk"
+    if exist "openprogramy\script_terraria.bat" (
+        start "" "openprogramy\script_terraria.bat"
         goto :start
     ) else (
         echo Error: script_terraria.bat nebylo nalezeno!
