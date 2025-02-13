@@ -14,7 +14,8 @@ v programu je jako posledni moznost ukonceni cmd kde kdyz se input od uzivatele 
 ```
 exit
 ```
-/ pokud ne tak se vypise error spatny input a program se vrati na zacatek. vysledny a konecny kod pote hodim do repozitare. ted uz akorat dodelam hezke barvy napisu, takze funkcnost hotova, ted uz jen kosmeticke vady.
+/ pokud ne tak se vypise error spatny input a program se vrati na zacatek. vysledny a konecny kod pote hodim do repozitare. ted uz akorat dodelam hezke barvy napisu, takze funkcnost hotova, ted uz jen kosmeticke vady.<br><br>
+!! k terraria scriptu musi byt stahnuty program steam_idle_master_extended a musi se spravne prepsat cesta. game code by se taky mel vymenit, ale to je individualni a tohle je pouze jen ukazka abych ukazal jak to funguje.
 
 obtiznost: 3/10<br>
 shrnuti: bavilo me to, zase neco noveho nez jenom c#, ale nejspis bych to normalne delat nechtel. nebylo to nic tezkeho jen mi to neprislo moc zazivne.
